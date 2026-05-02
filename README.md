@@ -26,8 +26,8 @@
       <h3>⭐ Sobre mim</h3>
       <p>
         Desenvolvedora em formação, apaixonada por criar soluções funcionais e aprender novas tecnologias.<br>
-        Adoro explorar o universo Linux, ouvir música enquanto programo e transformar ideias em código.<br>
-        Atualmente estudando <b>C#/.NET</b> e <b>MySQL</b>, pelo Transforme-se Serasa Experian com foco em desenvolvimento desktop e lógica de programação.
+        Adoro ouvir música enquanto programo e transformar ideias em código.<br>
+        Atualmente estudando <b>C#/.NET</b> e <b>MySQL</b>, pelo Transforme-se Serasa Experian com foco em desenvolvimento desktop.
       </p>
     </td>
   </tr>
