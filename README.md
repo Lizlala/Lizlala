@@ -3,14 +3,11 @@
 ---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" /> &nbsp
 </div>
 
 
@@ -25,9 +22,7 @@
     <td>
       <h3>⭐ Sobre mim</h3>
       <p>
-        Desenvolvedora em formação, apaixonada por criar soluções funcionais e aprender novas tecnologias.<br>
-        Adoro ouvir música enquanto programo e transformar ideias em código.<br>
-        Atualmente estudando <b>C#/.NET</b> e <b>MySQL</b>, pelo Transforme-se Serasa Experian com foco em desenvolvimento desktop.
+        Foco em <b>Análise de Dados</b> e <b>Segurança da Informação</b>, desenvolvendo conhecimentos em programação, bancos de dados e tecnologia.
       </p>
     </td>
   </tr>
